@@ -69,7 +69,14 @@ Se necesitan restricciones
 3- plantear restricciones  (al menos 25 g de proteinas por tanto 0.3xa + 0.05xb >= 25, par las grasas 0.01xa + 0.07xb >=6, para azucar  0.1xa + 0.1xb >= 30) adema de eso, xa >=0 = xb
 
 
-*** Siempre se debe de utilizar la desigualdad menor o igual ($<=$) y por tanto, si es necesario, se debe de multiplicar la inecuacion por -1
+*** Siempre se debe de utilizar la desigualdad menor o igual ($<=$) y por tanto, si es necesario, se debe de multiplicar la inecuacion por -1 y ademas, siempre se debe de usar en forma matrcial y vectorial.
 
 
-y ademas, siempre se debe de usar en forma matrcial y vectorial
+Si un problema estainicialmente planteado para maximizar, podemos cambiarlo a minimizar (para que lo corra python, igualmente lo va a maximizar), mediante la multiplicacion del vector c por un -
+
+
+
+
+
+
+

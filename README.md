@@ -74,9 +74,18 @@ Se necesitan restricciones
 
 Si un problema estainicialmente planteado para maximizar, podemos cambiarlo a minimizar (para que lo corra python, igualmente lo va a maximizar), mediante la multiplicacion del vector c por un -
 
+----------------------------------------------------------------------------------------------
+
+# Ajuste de curvas 
 
 
+El ajuste de curvas pretende identificar valores futuros sin la necesidad de llevar a cabo el experimento o el anaisis mas veces, mediante la relación que existe entre las variable. para esto se trata de identificar la lacurvaque mas se ajusta a una serie de datos.
 
+paraencontrar la ecuacion de una recta que une dos puntos, se utiliza un sistema de dos ecuaciones, ya que se tiene el punto (2,0) y (3,1)
+las ecuaciones serian 0=2x+b y 1=3x+b. Despues debemos de plantear esta solución de forma matricial y ademasencontrar la inversa de A, para poder despejar b de la ecuación de la ecuación.}
+
+
+para el caso de una parabola son tres puntos, en el ejemplo, 1=0b0+0b1+1b2 ; 0 = 1b0 +1b1 + 1b2 ; 1= 4b0 + 2b1 + 1b2 
 
 
 

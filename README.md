@@ -87,8 +87,12 @@ las ecuaciones serian 0=2x+b y 1=3x+b. Despues debemos de plantear esta solució
 
 para el caso de una parabola son tres puntos, en el ejemplo, 1=0b0+0b1+1b2 ; 0 = 1b0 +1b1 + 1b2 ; 1= 4b0 + 2b1 + 1b2 
 
+----------------------------------------------------------------------------------------------
+
+# Modulo 2
 
 
+La operacion modulo, representa la operacion de residuo y devuelve el residuo de una operacion
 
 
 

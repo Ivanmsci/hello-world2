@@ -92,7 +92,9 @@ para el caso de una parabola son tres puntos, en el ejemplo, 1=0b0+0b1+1b2 ; 0 =
 # Modulo 2
 
 
-La operacion modulo, representa la operacion de residuo y devuelve el residuo de una operacion
+La operacion modulo, representa la operacion de residuo y devuelve el residuo de una división.
+Un histograma que esta uniformemente distribuido quiere decir que hay una probabilidad identica o al menos similar, de que cada valor se repita la misma cantidad de veces por cada muestra
+
 
 
 

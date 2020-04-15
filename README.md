@@ -97,6 +97,10 @@ Un histograma que esta uniformemente distribuido quiere decir que hay una probab
 
 La variable B, se definira como la variable de bernoulli. B=0 si x,y(x^2+y^2>1) no pertenece a D y B=1 si x,y(x^2+y^2<=1) pertenece a D. 
 
+La esoeranza matematica de Bernoulli es E[B]=teta=(A(D)/A(R))
+La region R, se puede definir tan grande o pequeña como se requiera, siempre y cuando encierre el area de interes.
+
+El metodo funciona mediante la generacion de una gran cantidad de puntos en un area conocida y se analiza cuantos puntos aleatorios entran en el area de interes, para asi aproximar el area deseada.
 
 
 

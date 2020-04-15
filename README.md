@@ -93,7 +93,9 @@ para el caso de una parabola son tres puntos, en el ejemplo, 1=0b0+0b1+1b2 ; 0 =
 
 
 La operacion modulo, representa la operacion de residuo y devuelve el residuo de una división.
-Un histograma que esta uniformemente distribuido quiere decir que hay una probabilidad identica o al menos similar, de que cada valor se repita la misma cantidad de veces por cada muestra
+Un histograma que esta uniformemente distribuido quiere decir que hay una probabilidad identica o al menos similar, de que cada valor se repita la misma cantidad de veces por cada muestra.
+
+La variable B, se definira como la variable de bernoulli. B=0 si x,y(x^2+y^2>1) no pertenece a D y B=1 si x,y(x^2+y^2<=1) pertenece a D. 
 
 
 

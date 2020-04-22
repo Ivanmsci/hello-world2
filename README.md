@@ -103,4 +103,21 @@ La region R, se puede definir tan grande o pequeña como se requiera, siempre y 
 El metodo funciona mediante la generacion de una gran cantidad de puntos en un area conocida y se analiza cuantos puntos aleatorios entran en el area de interes, para asi aproximar el area deseada.
 
 
+### El diagrama de flujo (escrito), para obtener predicciones es:
+
+obtener  precios de la accion (web.datareader desde yahoo finance)
+
+convertir a rendimientos diarios
+
+obtener media y desviacion estandar de los **rendimientos**
+
+simular evolucion de rendimientos diarios (muuuchos escenarios)(pero no da mucha info la gráfica)
+
+Transformar rendimientos simulados a precio de accion simulados
+
+
+
+
+
+
 

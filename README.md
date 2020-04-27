@@ -115,6 +115,15 @@ simular evolucion de rendimientos diarios (muuuchos escenarios)(pero no da mucha
 
 Transformar rendimientos simulados a precio de accion simulados
 
+La probabilidad, hasta marzo, paso de 0%-50%, mientras que el precio real oscilo entre 1500-1800. Se puede observar que la mayor parte del tiempo durante este trimestre, paso el valor umbral impuesto, por lo que la prediccion no es correcta para este trimestre.
+
+Para abril-junio:
+
+real----1700-1950
+probabilidad calculada -- 50-62%
+
+Ya que se tiene una probabilidad mayor al 50% en la mayor parte del trimestre, y que los valores de la accion superaron el precio umbral impuesto durante todo el periodo. Por tanto la prediccion de los valores mediante montecarlo fue adecuada.
+
 
 
 
